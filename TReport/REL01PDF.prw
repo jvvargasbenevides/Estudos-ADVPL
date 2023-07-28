@@ -71,7 +71,7 @@ Return oReport
 /*/{Protheus.doc} ReportPrint
     Montar query e abrir em tabela temporária
 
-    @author  Nome
+    @author   Joao vitor vargas
     @example Exemplos
     @param   [Nome_do_Parametro],Tipo_do_Parametro,Descricao_do_Parametro
     @return  Especifica_o_retorno
